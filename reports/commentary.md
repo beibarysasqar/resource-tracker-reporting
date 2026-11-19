@@ -8,5 +8,5 @@ Team load varied throughout the period, with planned hours ranging from 2400 to 
 
 ## Overloaded employees
 
-Several team members consistently logged high weekly hours during the tracking period, with Anthony Robinson peaking at 57.5 hours in September 2026 and Susan Rogers matching that same 57.5 total in July 2026. Other notable heavy workloads include Maria Montgomery and Susan Rogers both reaching 56.0 hours in October 2026, while Nancy Edwards recorded 55.25 hours and Jose Mason hit 54.25 hours in July 2026.
+Several team members consistently logged high weekly hours during the tracking period, with Anthony Robinson peaking at 57.5 hours in September 2026 and Susan Rogers matching that same 57.5 total in July 2026. Other notable heavy workloads include Maria Montgomery and Susan Rogers both reaching 56.0 hours and Nancy Edwards recording 55.25 hours in October 2026, while Jose Mason hit 54.25 hours in July 2026.
 

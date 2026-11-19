@@ -30,8 +30,3 @@ Owner codes: TL = team lead, B = buddy, N = newcomer.
 - [ ] 13. Prepare the monthly load table for one month and compare it with the pivot table (N, review by B)
 - [ ] 14. Update one slide of the resource report with new figures (N, review by TL)
 - [ ] 15. Feedback talk: what was unclear in the onboarding, what to change in this checklist (TL and N)
-
-## Notes
-
-- If access is missing, write to the team lead the same day. Do not wait until the end of the week.
-- Steps 9, 13 and 14 are done on a copy of the tracker, never on the main file.
