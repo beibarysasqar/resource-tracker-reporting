@@ -50,7 +50,3 @@ python -m pytest tests/
 - 26 of 40 employees have at least one month above 40 hours a week, 55 such months in total. The highest value is 57.5 hours a week.
 - The check found 19 numbers in the commentary, all 19 match the summary.
 - 7 tests pass.
-
-## Limitations
-
-The check compares a number with all projects, people and months named in the same sentence. If a sentence names two people, a number that belongs to one of them also passes for the other.
